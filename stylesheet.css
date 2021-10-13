@@ -1,0 +1,22 @@
+html, th, body, button, input, select, table, textarea {
+	font-family: '-apple-system' !important;
+}
+.gall_list {
+	font-family: '-apple-system' !important;
+}
+.page_head {
+	font-family: '-apple-system' !important;
+}
+.cont {
+	font-family: '-apple-system' !important;
+}
+.gallog_menu li a {
+	font-family: '-apple-system' !important;
+}
+.copyright {
+	font-family: '-apple-system' !important;
+}
+
+blob-code-inner {
+	font-family: 'Cascadia Code', monospace !important;
+}
